@@ -7,7 +7,7 @@ waar één of meerdere language module(s) aan is toegevoegd, zie de Dockerfile
 Het maken/update van de image doe je met:
 
 ```bash
-docker build -t alliander/sonarqube:5.6.2-1 .
+docker build -t alliander/sonarqube:5.6.2-2 .
 ```
 
 Om dit image beschikbaar te hebben in de k8s omgeving(en) moet het nog gepushed worden naar onze repository:
